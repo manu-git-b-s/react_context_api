@@ -1,6 +1,6 @@
 # Awesome Shopping Cart Project 🛒
 
-Welcome to my Shopping Cart project with Context API! This application provides an intuitive and seamless shopping experience for both users and developers.This project is developed with React and Bootstrap.
+Welcome to my Shopping Cart project with Context API! This application provides an intuitive and seamless shopping experience for both users and developers.This project is developed with React and Bootstrap.To view the cart First click on Add to cart button on products you want and an cart icon would pop on navbar,by clicking on cart icon you will be able to view the shoppingcart.
 
 ## Table of Contents
 
@@ -19,8 +19,7 @@ Welcome to my Shopping Cart project with Context API! This application provides 
 ## Features
 
 - 📦 Browse and add products to your cart.
-- 🛒 View, edit, and remove items from your cart.
-- 💳 Securely proceed to checkout.
+- 🛒 View products in cart.
 - 🌐 Responsive design for a seamless experience across devices.
 
 ## Getting Started
@@ -37,7 +36,7 @@ Before you begin, ensure you have the following installed on your machine:
 1. **Clone the repository:**
 
    ```bash
-   https://github.com/Chandruvijayakumar/Shopping-Cart.git
+   https://github.com/manu-git-b-s/react_context_api.git
    ```
 
 2. **Navigate to the project directory:**
@@ -86,7 +85,7 @@ We welcome contributions! To contribute to this project, please follow the guide
 
 ## Feedback
 
-If you have any questions, issues, or suggestions, feel free to [open an issue](https://github.com/Chandruvijayakumar/Shopping-Cart.git/issues).
+If you have any questions, issues, or suggestions, feel free to [open an issue](https://github.com/manu-git-b-s/react_context_api.git/issues).
 
 ## Netlify Link
 
