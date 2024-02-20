@@ -1,0 +1,87 @@
+[
+  {
+    "id": 1,
+    "title": "iPhone 9",
+    "description": "An apple mobile which is nothing like apple",
+    "price": 549,
+    "discountPercentage": 12.96,
+    "rating": 4.69,
+    "stock": 94,
+    "brand": "Apple",
+    "category": "smartphones",
+    "thumbnail": "https://media.istockphoto.com/id/1426145822/photo/iphone-14-pro-home-screen-with-app-icons.jpg?s=612x612&w=0&k=20&c=oJOjfGgBYg8m1G3VjZL70b8M8I2bSGPC8kdgbosWLws=",
+    "images": [
+      "https://media.istockphoto.com/id/1426145822/photo/iphone-14-pro-home-screen-with-app-icons.jpg?s=612x612&w=0&k=20&c=oJOjfGgBYg8m1G3VjZL70b8M8I2bSGPC8kdgbosWLws=",
+      "https://media.istockphoto.com/id/1197063359/photo/woman-using-apple-iphone-11-pro-smartphone.jpg?s=612x612&w=0&k=20&c=2q_cfjVBSfNRaiJ8uQ-JF13-pbVH9rxZETVJOC3NtYs=",
+      "https://media.istockphoto.com/id/1197063348/photo/person-holding-apple-iphone-11-pro.jpg?s=612x612&w=0&k=20&c=MG7XbJ0tS5taZuPYOJFHybNA92ogPqpv8srQ22sYlCs="
+    ]
+  },
+  {
+    "id": 2,
+    "title": "Imac",
+    "description": "SIM-Free, Model A19211 6.5-inch Super Retina HD display with OLED technology A12 Bionic chip with ...",
+    "price": 899,
+    "discountPercentage": 17.94,
+    "rating": 4.44,
+    "stock": 34,
+    "brand": "Apple",
+    "category": "smartphones",
+    "thumbnail": "https://images.unsplash.com/photo-1515248137880-45e105b710e0?w=800&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8aW1hY3xlbnwwfHwwfHx8MA%3D%3D",
+    "images": [
+      "https://images.unsplash.com/photo-1515248137880-45e105b710e0?w=800&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8aW1hY3xlbnwwfHwwfHx8MA%3D%3D",
+      "https://cdn.vox-cdn.com/thumbor/3niuOBUI7aM04f1VqItEjHbiiYo=/0x0:2040x1360/2400x1356/filters:focal(962x690:963x691)/cdn.vox-cdn.com/uploads/chorus_asset/file/25053908/236907_iMac_M3_review_DSeifert_0003.jpg",
+      "https://www.cnet.com/a/img/resize/f4061912e40e844e3206c090561e11813a6035cf/hub/2023/11/04/1d60cba5-15a5-4d9a-9f94-d2d997f90cfe/apple-imac-m3-2023-01.jpg?auto=webp&width=1200"
+    ]
+  },
+  {
+    "id": 3,
+    "title": "Samsung Laptop",
+    "description": "Samsung's new variant which goes beyond Galaxy to the Universe",
+    "price": 1249,
+    "discountPercentage": 15.46,
+    "rating": 4.09,
+    "stock": 36,
+    "brand": "Samsung",
+    "category": "smartphones",
+    "thumbnail": "https://images6.alphacoders.com/133/1338694.png",
+    "images": [
+      "https://images6.alphacoders.com/133/1338694.png",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTitmtIA8cVLGC9qFQUrGdEwkJzwfeBJsXegvKQ2_C1XXQxHS7aefeboheJS5TB0PzlXy8&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT20iP8y6LCQTJVbEY7pdwghwOjhEMVqqL4fxkimZL_kUTTOlXGNKPHJAizbOueK7U8o1Y&usqp=CAU"
+    ]
+  },
+  {
+    "id": 4,
+    "title": "Lenovo Tablet",
+    "description": "OPPO F19 is officially announced on April 2021.",
+    "price": 280,
+    "discountPercentage": 17.91,
+    "rating": 4.3,
+    "stock": 123,
+    "brand": "OPPO",
+    "category": "smartphones",
+    "thumbnail": "https://image.oppo.com/content/dam/oppo/common/mkt/v2-2/navigation/find-series/find-x/Find%20X-navigation-Red-v2.png",
+    "images": [
+      "https://static.android.com.pl/uploads/2022/02/32-Lenovo-Yoga-Tab-13-recenzja-1280x720.jpg",
+      "https://images.techadvisor.com/cmsdata/reviews/3815359/lenovo_yoga_tab_11_review_screen_thumb.jpg",
+      "https://fusertech.co.zw/wp-content/uploads/2022/01/1136210_R_SET.jpg"
+    ]
+  },
+  {
+    "id": 5,
+    "title": "Samsung M30",
+    "description": "Huawei’s re-badged P30 Pro New Edition was officially unveiled yesterday in Germany and now the device has made its way to the UK.",
+    "price": 499,
+    "discountPercentage": 10.58,
+    "rating": 4.09,
+    "stock": 32,
+    "brand": "Huawei",
+    "category": "smartphones",
+    "thumbnail": "https://static.digit.in/default/full-b37352dcc4.png",
+    "images": [
+      "https://static.digit.in/default/full-b37352dcc4.png",
+      "https://i0.wp.com/www.smartprix.com/bytes/wp-content/uploads/2023/07/Galaxy-M34-review-display-scaled.jpg?ssl=1",
+      "https://fs.npstatic.com/userfiles/7687254/image/Samsung_Galaxy_A54/nextpit_Samsung_Galaxy_A54_Display-w782.jpg"
+    ]
+  }
+]
