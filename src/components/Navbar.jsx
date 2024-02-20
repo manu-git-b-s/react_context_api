@@ -5,7 +5,7 @@ import { useShoppingCart } from "../context/ShoppingCartContext";
 const Navbar = () => {
   const { cartQuantity, openCart } = useShoppingCart();
   return (
-    <NavbarBs sticky="top" className="bg-light shadow-sm mb-3">
+    <NavbarBs sticky="top" className="bg-white shadow-lg mb-3 navbarStyle">
       <Container>
         <NavbarBs.Brand href="/">
           React-Shopping-Cart <i className="fa-solid fa-cart-shopping"></i>

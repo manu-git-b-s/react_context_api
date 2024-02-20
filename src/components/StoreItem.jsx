@@ -11,7 +11,7 @@ function StoreItem({ id, title, price, images, description }) {
   const quantity = getItemQuantity(id);
 
   return (
-    <Card className="h-100">
+    <Card className="h-100 mb-5">
       <div
         id={`carouselExample-${id}`}
         className="carousel slide"
@@ -86,7 +86,7 @@ function StoreItem({ id, title, price, images, description }) {
                 variant="danger"
                 size="sm"
               >
-                Remove
+                Remove from cart
               </Button>
             </div>
           )}
